@@ -170,7 +170,7 @@ dat2phylip(dat, outfile = "con_synonymy_seq.phy")
 &ensp; Finally, the **GetSpSite** function can identify specific mutation sites in SARS-CoV-2 nucleic acid sequence groups and can integrate RaTG13 and NC_045512.2 sequences (The alignment sequence file of RaTG13 in NC_045512.2 has been stored in the folder test_data.) to output the nucleotide sequence composed of these sites. Then you can use the **PhyML** software to draw the evolutionary tree.
 
 ### Note:
-Results have been updated to January 2021. The nucleotide sequence data is saved in the Nucleic Acid Sequence Data folder.
+Results have been updated to February 2021. The nucleotide sequence data is saved in the Nucleic Acid Sequence Data folder.
 
 ## References:
 Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability, Mol Biol Evol 2013;30:772-780.
